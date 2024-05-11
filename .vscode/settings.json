@@ -1,0 +1,10 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrains Mono,Consolas, 'Courier New', monospace",
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    }
+}
